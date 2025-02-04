@@ -1,4 +1,10 @@
-## Hi there 👋
+👋 Hi, I’m @DharshiniR1953
+
+👀 I’m interested in Machine Learning and Data Science
+
+🌱 I’m currently working as a AI/ML Engineer and am a graduate with major in Artificial Intelligence and Data Science
+
+📫 How to reach me: https://www.linkedin.com/in/dharshinir1953/
 
 <!--
 **DharshiniR1953/DharshiniR1953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
